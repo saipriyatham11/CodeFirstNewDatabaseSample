@@ -5,9 +5,9 @@ using Microsoft.Owin;
 using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.Google;
 using Owin;
-using Sai.Models;
+using sai.Models;
 
-namespace Sai
+namespace sai
 {
     public partial class Startup
     {

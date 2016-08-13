@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace Sai.Controllers
+namespace sai.Controllers
 {
     public class HomeController : Controller
     {
